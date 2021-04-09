@@ -4,3 +4,8 @@ body{
   font-weight: bold;
   color:red;
 }
+
+thead{
+  background-color: white;
+  color:black;
+}
